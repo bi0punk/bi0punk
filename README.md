@@ -1,21 +1,11 @@
 
 
-                          
-                    █▀█ █▄█ ▀█▀ █░█ █▀█ █▄░█
-                    █▀▀ ░█░ ░█░ █▀█ █▄█ █░▀█                                        ᴋⷦaͣliͥ Liͥnuͧxͯ
 
                                                                                              
                                                 𝙱𝚊𝚌𝚔𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 - 𝚂𝚢𝚜𝚊𝚍𝚖𝚒𝚗
-    ┏━━━┓╋╋┏┓╋╋╋╋┏━━━┓
-    ┗┓┏┓┃╋┏┛┗┓╋╋╋┃┏━┓┃
-    ╋┃┃┃┣━┻┓┏╋━━┓┃┗━━┳━━┳┳━━┳━┓┏━━┳━━┓
-    ╋┃┃┃┃┏┓┃┃┃┏┓┃┗━━┓┃┏━╋┫┃━┫┏┓┫┏━┫┃━┫
-    ┏┛┗┛┃┏┓┃┗┫┏┓┃┃┗━┛┃┗━┫┃┃━┫┃┃┃┗━┫┃━┫
-    ┗━━━┻┛┗┻━┻┛┗┛┗━━━┻━━┻┻━━┻┛┗┻━━┻━━┛
-
-
-# Skills:
-
+                                                
+                                                
+                                                
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
@@ -26,3 +16,7 @@
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+
+
+
+
