@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Henrry, from Chile</h1>
+<h1 align="center">Hola 👋, Henrry from Chile</h1>
 <h3 align="center">Desarrollador de software profesional. DevOps - Ciberseguridad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bi0punk&label=Profile%20views&color=0e75b6&style=flat" alt="bi0punk" /> </p>
