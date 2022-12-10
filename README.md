@@ -1,5 +1,5 @@
 
-<h3 align="center">Professional Software Developer.</h3>
+<h3 align="center">Software Developer, Computer Science Enthusiast.</h3>
 
 
 
