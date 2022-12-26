@@ -1,6 +1,6 @@
 
 <h3 align="center">Software Developer, Computer Science Enthusiast.</h3>
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/enrique-su%c3%a1rez-peralta-777791201/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
