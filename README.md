@@ -1,8 +1,6 @@
 # 💫 About Me:
 Software Developer, Computer Science Enthusiast.
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left">
 </p>
 
