@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Software Developer, Computer Science Enthusiast.
 
 <p align="left">
