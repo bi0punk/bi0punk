@@ -1,5 +1,3 @@
-# Describe:
-🔭 I’m currently working on<br>
 
 
 # 💻 Tech Stack:
