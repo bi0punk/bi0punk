@@ -5,8 +5,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Enrique Suarez) 
 
-# 💻 Tech Stack:
-<h3 align="center"></h3>
+
+<h3 align="center"># 💻 Tech Stack:</h3>
 
 <p align="left">
 </p>
