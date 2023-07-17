@@ -6,10 +6,6 @@
 
 
 
-# 💫 Who:
-🔭 I’m currently working on personal projects<br><br>⚡ Fun fact
-
-
 <h3 align="center"># 💻 Main Stack:</h3>
 
 <p align="left">
