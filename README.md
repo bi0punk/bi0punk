@@ -26,9 +26,7 @@
 
 ###
 ```
-def describe():
-  pass
-
+describe()
 ```
 ```
 
