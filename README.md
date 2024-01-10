@@ -27,11 +27,12 @@
 ###
 ```
 
-a three-line code block
+Computer programer - Pythonista - Cloud Engenieer 
+📚 I'm currently learning cibersecurity🔭⚡
 
 ```
 
-<p align="left">Computer programer - Pythonista - Cloud Engenieer 🔭 <br>-📚 I'm currently learning cibersecurity...⚡<br>-  </p>
+<p align="left"><br>-  </p>
 
 ###
 
