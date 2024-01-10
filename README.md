@@ -18,15 +18,20 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  print("About Me")</h3>
 
 ###
+```
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+a three-line code block
+
+```
+
+<p align="left">Computer programer - Pythonista - Cloud Engenieer 🔭 <br>-📚 I'm currently learning cibersecurity...⚡<br>-  </p>
 
 ###
 
