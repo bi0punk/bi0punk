@@ -30,9 +30,6 @@ Computer programer - Pythonista - Cloud Engenieer
 ```
 
 <p align="left"><br>-  </p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
