@@ -28,8 +28,6 @@ Computer programer - Pythonista - Cloud Engenieer
 📚 I'm currently learning cibersecurity🔭⚡
 
 ```
-
-<p align="left"><br>-  </p>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
