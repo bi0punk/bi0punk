@@ -24,7 +24,7 @@ describe()
 ```
 ```
 
-Computer programmer - Pythonista - Cloud Engenieer 
+Computer programmer - Pythonista - Cloud fan
 📚 I'm currently learning cibersecurity🔭⚡
 
 ```
