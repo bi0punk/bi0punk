@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Computer Programmer | Linux Based | Pythonista | CloudOps Professional</h3>
+  <h3>Computer Programmer | Pythonista | CloudOps Professional</h3>
 </div>
 
 <div align="center">
