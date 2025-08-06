@@ -75,11 +75,3 @@
 
 
 ---
-
-### 🛠 ¿Quieres personalizarlo más?
-
-* Puedes usar el tema `dark` en GitHub para que los colores estilo terminal luzcan aún mejor.
-* Puedes cambiar `systec-technologies` por tu usuario real en los enlaces.
-* Puedes agregar insignias de tus contribuciones, contadores o estadísticas si lo deseas.
-
-¿Quieres que también te cree una versión en HTML o con GitHub Actions para actualizar algo automáticamente?
