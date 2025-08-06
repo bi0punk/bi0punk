@@ -1,6 +1,3 @@
-Claro, aquí tienes un `README.md` con estilo **"terminal / hacker"**, usando **colores verdes, rojos, amarillos y negros** (estilo consola) para que se vea impactante al visitar tu perfil de GitHub. Está diseñado para ser **profesional, llamativo y enfocado en tecnología**:
-
----
 
 ````markdown
 <h1 align="center">
