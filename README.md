@@ -1,6 +1,6 @@
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│ root@systec:~# whoami                                                       │
+│ root@bi0punk:~# whoami                                                       │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -15,20 +15,20 @@
        |___/                                                           |___/             
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=root%40systec%3A~%23+sudo+su+-+fullstack_dev;root%40systec%3A~%23+./deploy_innovation.sh+--cloud+--ai;root%40systec%3A~%23+echo+%22Hello+World%2C+I'm+Systec%22;root%40systec%3A~%23+systemctl+status+creativity.service" alt="Terminal Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=root%40bi0punk%3A~%23+sudo+su+-+fullstack_dev;root%40bi0punk%3A~%23+./deploy_innovation.sh+--cloud+--ai;root%40bi0punk%3A~%23+echo+%22Hello+World%2C+I'm+bi0punk%22;root%40bi0punk%3A~%23+systemctl+status+creativity.service" alt="Terminal Animation" />
 
 </div>
 
 ```bash
-┌─[root@systec]─[~]
+┌─[root@bi0punk]─[~]
 └──╼ $ cat /etc/profile
 ```
 
 ```console
 # ===============================================
-# SYSTEC TECHNOLOGIES - SYSTEM PROFILE
+# bi0punk  - SYSTEM PROFILE
 # ===============================================
-USER="systec_technologies"
+USER="bi0punk_"
 SHELL="/bin/zsh"
 PATH="/usr/local/bin/innovation:/usr/bin/automation:/bin/security"
 LOCATION="Chile 🇨🇱"
@@ -38,97 +38,97 @@ UPTIME="24/7/365"
 ```
 
 ```bash
-┌─[root@systec]─[~]
+┌─[root@bi0punk]─[~]
 └──╼ $ ps aux | grep skills
 ```
 
 ```
 USER       PID  %CPU %MEM COMMAND
-systec    1337  99.9  8.0  python3 -m fullstack_development
-systec    2024  95.2  7.5  docker run -d cloud_architecture  
-systec    3141  89.7  6.2  ansible-playbook infrastructure.yml
-systec    4096  87.3  5.9  ./ai_model_training --gpu --optimize
-systec    5555  82.1  4.8  bash security_audit.sh --deep-scan
-systec    6789  78.6  4.1  kubectl apply -f kubernetes/
-systec    7890  75.2  3.7  git push origin innovation
+bi0punk    1337  99.9  8.0  python3 -m fullstack_development
+bi0punk    2024  95.2  7.5  docker run -d cloud_architecture  
+bi0punk    3141  89.7  6.2  ansible-playbook infrastructure.yml
+bi0punk    4096  87.3  5.9  ./ai_model_training --gpu --optimize
+bi0punk    5555  82.1  4.8  bash security_audit.sh --deep-scan
+bi0punk    6789  78.6  4.1  kubectl apply -f kubernetes/
+bi0punk    7890  75.2  3.7  git push origin innovation
 ```
 
 ```bash
-┌─[root@systec]─[~]
-└──╼ $ tree /home/systec/technologies/
+┌─[root@bi0punk]─[~]
+└──╼ $ tree /home/bi0punk//
 ```
 
 ```
-/home/systec/technologies/
+/home/bi0punk//
 ├── 💻 development/
 │   ├── python/
-│   │   ├── fastapi_projects/        ⭐ API backends
-│   │   ├── automation_scripts/      🤖 Task automation  
-│   │   └── ml_models/              🧠 AI implementations
+│   │   ├── fastapi_projects/        API backends
+│   │   ├── automation_scripts/      Task automation  
+│   │   └── ml_models/               AI implementations
 │   ├── javascript/
-│   │   ├── react_frontends/        🎨 User interfaces
-│   │   └── node_backends/          ⚡ Server applications
+│   │   ├── react_frontends/        User interfaces
+│   │   └── node_backends/          Server applications
 │   └── bash/
-│       ├── deployment_scripts/     🚀 Auto deployments
-│       └── system_administration/  🔧 Server management
+│       ├── deployment_scripts/     Auto deployments
+│       └── system_administration/  Server management
 │
 ├── ☁️  cloud_infrastructure/
 │   ├── aws/
-│   │   ├── terraform/              📋 IaC definitions
-│   │   ├── lambda_functions/       ⚡ Serverless computing
-│   │   └── ecs_containers/         🐳 Container orchestration
+│   │   ├── terraform/              IaC definitions
+│   │   ├── lambda_functions/       Serverless computing
+│   │   └── ecs_containers/         Container orchestration
 │   ├── gcp/
-│   │   ├── compute_engine/         💻 VM management
-│   │   └── cloud_functions/        🔄 Event-driven code
+│   │   ├── compute_engine/         VM management
+│   │   └── cloud_functions/        Event-driven code
 │   └── docker/
-│       ├── compose_files/          🐋 Multi-container apps
-│       └── custom_images/          📦 Optimized containers
+│       ├── compose_files/          Multi-container apps
+│       └── custom_images/          Optimized containers
 │
 ├── 🤖 artificial_intelligence/
 │   ├── computer_vision/
-│   │   ├── object_detection/       👁️  Real-time detection
-│   │   ├── image_classification/   🖼️  Smart categorization
-│   │   └── opencv_projects/        📸 Image processing
+│   │   ├── object_detection/       Real-time detection
+│   │   ├── image_classification/   Smart categorization
+│   │   └── opencv_projects/        Image processing
 │   ├── nlp/
-│   │   ├── langchain_bots/         🤖 Intelligent chatbots
-│   │   ├── llm_implementations/    🧠 Language models
-│   │   └── text_analysis/          📝 Content processing
+│   │   ├── langchain_bots/         Intelligent chatbots
+│   │   ├── llm_implementations/    Language models
+│   │   └── text_analysis/          Content processing
 │   └── machine_learning/
-│       ├── predictive_models/      📊 Data forecasting
-│       └── recommendation_systems/ 🎯 Smart suggestions
+│       ├── predictive_models/      Data forecasting
+│       └── recommendation_systems/ Smart suggestions
 │
 ├── 🔒 cybersecurity/
 │   ├── penetration_testing/
-│   │   ├── vulnerability_scanners/ 🔍 Security assessment
-│   │   ├── exploit_frameworks/     ⚔️  Ethical hacking
-│   │   └── network_analysis/       🌐 Traffic inspection
+│   │   ├── vulnerability_scanners/ Security assessment
+│   │   ├── exploit_frameworks/     Ethical hacking
+│   │   └── network_analysis/       Traffic inspection
 │   ├── hardening/
-│   │   ├── linux_security/         🛡️  System protection
-│   │   ├── docker_security/        🔐 Container security
-│   │   └── compliance_scripts/     ✅ Audit automation
+│   │   ├── linux_security/         System protection
+│   │   ├── docker_security/        Container security
+│   │   └── compliance_scripts/     Audit automation
 │   └── monitoring/
-│       ├── siem_integration/       👀 Security monitoring
-│       ├── log_analysis/           📋 Threat detection
-│       └── incident_response/      🚨 Emergency procedures
+│       ├── siem_integration/       Security monitoring
+│       ├── log_analysis/           Threat detection
+│       └── incident_response/      Emergency procedures
 │
 └── 🌐 iot_hardware/
     ├── esp32_projects/
-    │   ├── sensor_networks/        📡 Data collection
-    │   ├── drone_control/          🚁 Autonomous flight
-    │   └── home_automation/        🏠 Smart devices
+    │   ├── sensor_networks/        Data collection
+    │   ├── drone_control/          Autonomous flight
+    │   └── home_automation/        Smart devices
     ├── raspberry_pi/
-    │   ├── edge_computing/         ⚡ Local processing
-    │   └── camera_systems/         📹 Surveillance solutions
+    │   ├── edge_computing/         Local processing
+    │   └── camera_systems/         Surveillance solutions
     └── arduino/
-        ├── robotics/               🤖 Mechanical automation
-        └── environmental_sensors/  🌡️  Climate monitoring
+        ├── robotics/               Mechanical automation
+        └── environmental_sensors/  Climate monitoring
 
 25 directories, 156 files
 ```
 
 ```bash
-┌─[root@systec]─[~]
-└──╼ $ cat /proc/systec/status
+┌─[root@bi0punk]─[~]
+└──╼ $ cat /proc/bi0punk/status
 ```
 
 ```ini
@@ -152,12 +152,12 @@ Security_Awareness  : ███████████████████�
 [NETWORK_CONNECTIONS]
 GitHub              : [CONNECTED] - Sharing innovations
 LinkedIn            : [CONNECTED] - Professional networking
-Email               : [LISTENING] - contacto@systec.cl
-Website             : [SERVING]   - https://systec.cl
+Email               : [LISTENING] - contacto@bi0punk.cl
+Website             : [SERVING]   - https://bi0punk.cl
 ```
 
 ```bash
-┌─[root@systec]─[~]
+┌─[root@bi0punk]─[~]
 └──╼ $ history | tail -10
 ```
 
@@ -175,7 +175,7 @@ Website             : [SERVING]   - https://systec.cl
 ```
 
 ```bash
-┌─[root@systec]─[~]  
+┌─[root@bi0punk]─[~]  
 └──╼ $ ./social_networks.sh --display-contacts
 ```
 
@@ -183,17 +183,16 @@ Website             : [SERVING]   - https://systec.cl
 🌐 ESTABLISHING CONNECTIONS...
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-📧  EMAIL      │ contacto@systec.cl              │ [ACTIVE]
-🌍  WEBSITE    │ https://systec.cl               │ [ONLINE]  
-💼  LINKEDIN   │ linkedin.com/in/systectech      │ [READY]
-🐙  GITHUB     │ github.com/systec-technologies  │ [PUSHING_CODE]
-📱  TELEGRAM   │ @systec_tech                    │ [AVAILABLE]
+
+💼  LINKEDIN   │ linkedin.com/in/bi0punktech      │ [NOT AVAILABLE]
+🐙  GITHUB     │ github.com/bi0punk-  │ [PUSHING_CODE]
+📱  TELEGRAM   │ @bi0punk_tech                    │ [ NOT AVAILABLE]
 
 CONNECTION_STATUS: ████████████████████ 100% ESTABLISHED
 ```
 
 ```bash
-┌─[root@systec]─[~]
+┌─[root@bi0punk]─[~]
 └──╼ $ fortune | lolcat
 ```
 
@@ -211,7 +210,7 @@ CONNECTION_STATUS: ████████████████████ 
 ```
 
 ```bash
-┌─[root@systec]─[~]
+┌─[root@bi0punk]─[~]
 └──╼ $ uptime
 ```
 
@@ -220,7 +219,7 @@ CONNECTION_STATUS: ████████████████████ 
 ```
 
 ```bash
-┌─[root@systec]─[~]
+┌─[root@bi0punk]─[~]
 └──╼ $ systemctl status motivation.service
 ```
 
@@ -241,10 +240,10 @@ CONNECTION_STATUS: ████████████████████ 
 ```
 
 ```bash
-┌─[root@systec]─[~]
+┌─[root@bi0punk]─[~]
 └──╼ $ exit
 logout
-Connection to systec-technologies closed.
+Connection to bi0punk- closed.
 ```
 
 ---
@@ -252,18 +251,6 @@ Connection to systec-technologies closed.
 <div align="center">
 
 ```
- _____ _                 _           __              
-|_   _| |__   __ _ _ __ | | _____   / _| ___  _ __   
-  | | | '_ \ / _` | '_ \| |/ / __| | |_ / _ \| '__|  
-  | | | | | | (_| | | | |   <\__ \ |  _| (_) | |     
-  |_| |_| |_|\__,_|_| |_|_|\_\___/ |_|  \___/|_|     
-                                                     
-     _                 _ _             _ 
- ___| |_ ___  _ __  _ __ (_)_ __   __ _ | |
-/ __| __/ _ \| '_ \| '_ \| | '_ \ / _` || |
-\__ \ || (_) | |_) | |_) | | | | | (_| ||_|
-|___/\__\___/| .__/| .__/|_|_| |_|\__, |(_)
-             |_|   |_|            |___/    
 ```
 
 **⚡ SYSTEM POWERED BY INNOVATION & COFFEE ⚡**
