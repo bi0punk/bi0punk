@@ -1,5 +1,4 @@
 
-````markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hola+👋+soy+Systec+Technologies;Ingeniero+FullStack+%7C+Cloud+%7C+IA+%7C+Seguridad;Bienvenido+a+mi+repositorio" alt="Typing SVG" />
 </h1>
@@ -14,7 +13,7 @@
   <img src="https://img.shields.io/badge/GitLab-232323?style=for-the-badge&logo=gitlab&logoColor=orange"/>
 </p>
 
----
+
 
 ## 🧠 Sobre mí
 
@@ -25,7 +24,7 @@
 > Objetivo: Desarrollar soluciones inteligentes y automatizadas que marquen la diferencia
 ````
 
----
+
 
 ## 🚀 Tecnologías que uso día a día
 
@@ -62,7 +61,7 @@
 > GitHub  : https://github.com/systec-technologies
 ```
 
----
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="250"/>
@@ -73,7 +72,7 @@
 </h3>
 
 <p align="center"><i>“La tecnología no duerme, y nosotros tampoco.”</i></p>
-```
+
 
 ---
 
