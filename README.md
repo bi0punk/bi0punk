@@ -1,179 +1,279 @@
-<div align="center">
-
-# 🚀 Systec Technologies
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Ingeniero+FullStack+%7C+Cloud+%7C+IA;Desarrollando+el+futuro+con+tecnolog%C3%ADa;Automatizaci%C3%B3n+%E2%80%A2+Innovaci%C3%B3n+%E2%80%A2+Seguridad" alt="Typing SVG" />
-
-<img src="https://img.shields.io/github/followers/systec-technologies?style=social" alt="GitHub followers" />
-<img src="https://komarev.com/ghpvc/?username=systec-technologies&color=00d4aa&style=flat" alt="Profile views" />
-
-</div>
-
----
-
-## 👋 **Sobre mí**
-
-```yaml
-name: "Systec Technologies"
-location: "Chile 🇨🇱"
-role: "FullStack Developer | Cloud Engineer | AI Specialist"
-passion: "Transformar ideas en soluciones tecnológicas inteligentes"
-motto: "La innovación nunca duerme, y nosotros tampoco"
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ root@systec:~# whoami                                                       │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-🎯 **Mi enfoque:** Crear soluciones robustas que combinan desarrollo, infraestructura y inteligencia artificial para resolver problemas del mundo real.
-
----
-
-## 🛠️ **Stack Tecnológico**
-
 <div align="center">
 
-### **Desarrollo**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+```ascii
+ ____            _             _____           _                 _             _           
+/ ___| _   _ ___| |_ ___  ___  |_   _|__  ___| |__  _ __   ___ | | ___   __ _(_) ___  ___ 
+\___ \| | | / __| __/ _ \/ __|   | |/ _ \/ __| '_ \| '_ \ / _ \| |/ _ \ / _` | |/ _ \/ __|
+ ___) | |_| \__ \ ||  __/ (__    | |  __/ (__| | | | | | | (_) | | (_) | (_| | |  __/\__ \
+|____/ \__, |___/\__\___|\___|   |_|\___|\___|_| |_|_| |_|\___/|_|\___/ \__, |_|\___||___/
+       |___/                                                           |___/             
+```
 
-### **Cloud & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### **AI & Machine Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white)
-
-### **Sistemas & Monitoreo**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=root%40systec%3A~%23+sudo+su+-+fullstack_dev;root%40systec%3A~%23+./deploy_innovation.sh+--cloud+--ai;root%40systec%3A~%23+echo+%22Hello+World%2C+I'm+Systec%22;root%40systec%3A~%23+systemctl+status+creativity.service" alt="Terminal Animation" />
 
 </div>
 
----
+```bash
+┌─[root@systec]─[~]
+└──╼ $ cat /etc/profile
+```
 
-## 🎯 **Proyectos Destacados**
+```console
+# ===============================================
+# SYSTEC TECHNOLOGIES - SYSTEM PROFILE
+# ===============================================
+USER="systec_technologies"
+SHELL="/bin/zsh"
+PATH="/usr/local/bin/innovation:/usr/bin/automation:/bin/security"
+LOCATION="Chile 🇨🇱"
+STATUS="Online and Coding"
+UPTIME="24/7/365"
+# ===============================================
+```
 
-<table>
-<tr>
-<td width="50%">
+```bash
+┌─[root@systec]─[~]
+└──╼ $ ps aux | grep skills
+```
 
-### 🤖 **Automatización Inteligente**
-- **Ansible Playbooks** para IIS, VMware, WSUS
-- **Infrastructure as Code** con Terraform
-- **Monitoreo proactivo** con Zabbix
-- **CI/CD pipelines** optimizados
+```
+USER       PID  %CPU %MEM COMMAND
+systec    1337  99.9  8.0  python3 -m fullstack_development
+systec    2024  95.2  7.5  docker run -d cloud_architecture  
+systec    3141  89.7  6.2  ansible-playbook infrastructure.yml
+systec    4096  87.3  5.9  ./ai_model_training --gpu --optimize
+systec    5555  82.1  4.8  bash security_audit.sh --deep-scan
+systec    6789  78.6  4.1  kubectl apply -f kubernetes/
+systec    7890  75.2  3.7  git push origin innovation
+```
 
-</td>
-<td width="50%">
+```bash
+┌─[root@systec]─[~]
+└──╼ $ tree /home/systec/technologies/
+```
 
-### 🧠 **Inteligencia Artificial**
-- **Detección de objetos** en tiempo real
-- **LLMs locales** con LangChain
-- **Computer Vision** para automatización
-- **Chatbots inteligentes** para empresas
+```
+/home/systec/technologies/
+├── 💻 development/
+│   ├── python/
+│   │   ├── fastapi_projects/        ⭐ API backends
+│   │   ├── automation_scripts/      🤖 Task automation  
+│   │   └── ml_models/              🧠 AI implementations
+│   ├── javascript/
+│   │   ├── react_frontends/        🎨 User interfaces
+│   │   └── node_backends/          ⚡ Server applications
+│   └── bash/
+│       ├── deployment_scripts/     🚀 Auto deployments
+│       └── system_administration/  🔧 Server management
+│
+├── ☁️  cloud_infrastructure/
+│   ├── aws/
+│   │   ├── terraform/              📋 IaC definitions
+│   │   ├── lambda_functions/       ⚡ Serverless computing
+│   │   └── ecs_containers/         🐳 Container orchestration
+│   ├── gcp/
+│   │   ├── compute_engine/         💻 VM management
+│   │   └── cloud_functions/        🔄 Event-driven code
+│   └── docker/
+│       ├── compose_files/          🐋 Multi-container apps
+│       └── custom_images/          📦 Optimized containers
+│
+├── 🤖 artificial_intelligence/
+│   ├── computer_vision/
+│   │   ├── object_detection/       👁️  Real-time detection
+│   │   ├── image_classification/   🖼️  Smart categorization
+│   │   └── opencv_projects/        📸 Image processing
+│   ├── nlp/
+│   │   ├── langchain_bots/         🤖 Intelligent chatbots
+│   │   ├── llm_implementations/    🧠 Language models
+│   │   └── text_analysis/          📝 Content processing
+│   └── machine_learning/
+│       ├── predictive_models/      📊 Data forecasting
+│       └── recommendation_systems/ 🎯 Smart suggestions
+│
+├── 🔒 cybersecurity/
+│   ├── penetration_testing/
+│   │   ├── vulnerability_scanners/ 🔍 Security assessment
+│   │   ├── exploit_frameworks/     ⚔️  Ethical hacking
+│   │   └── network_analysis/       🌐 Traffic inspection
+│   ├── hardening/
+│   │   ├── linux_security/         🛡️  System protection
+│   │   ├── docker_security/        🔐 Container security
+│   │   └── compliance_scripts/     ✅ Audit automation
+│   └── monitoring/
+│       ├── siem_integration/       👀 Security monitoring
+│       ├── log_analysis/           📋 Threat detection
+│       └── incident_response/      🚨 Emergency procedures
+│
+└── 🌐 iot_hardware/
+    ├── esp32_projects/
+    │   ├── sensor_networks/        📡 Data collection
+    │   ├── drone_control/          🚁 Autonomous flight
+    │   └── home_automation/        🏠 Smart devices
+    ├── raspberry_pi/
+    │   ├── edge_computing/         ⚡ Local processing
+    │   └── camera_systems/         📹 Surveillance solutions
+    └── arduino/
+        ├── robotics/               🤖 Mechanical automation
+        └── environmental_sensors/  🌡️  Climate monitoring
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+25 directories, 156 files
+```
 
-### 🚁 **IoT & Hardware**
-- **Control de drones** autónomos
-- **Sensores ESP32** conectados
-- **Dashboards** de telemetría
-- **Integración cloud-edge**
+```bash
+┌─[root@systec]─[~]
+└──╼ $ cat /proc/systec/status
+```
 
-</td>
-<td width="50%">
+```ini
+# CURRENT SYSTEM STATUS
+#━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 🔒 **Ciberseguridad**
-- **Auditorías de seguridad** automatizadas
-- **Pentesting** con Python
-- **Hardening** de sistemas Linux
-- **SIEM** y análisis de logs
+[ACTIVE_PROCESSES]
+✓ Innovation.service         [RUNNING] - Generating new ideas
+✓ Automation.daemon          [ACTIVE]  - Streamlining workflows  
+✓ Learning.process           [ACTIVE]  - Acquiring new skills
+✓ Problem_solving.exe        [READY]   - Waiting for challenges
+✓ Coffee_intake.service      [ACTIVE]  - Maintaining energy levels
 
-</td>
-</tr>
-</table>
+[SYSTEM_METRICS]
+Creativity_Level    : ████████████████████ 100%
+Problem_Solving     : ███████████████████░  95%
+Code_Quality        : ██████████████████░░  90%
+Automation_Skills   : ████████████████████ 100%
+Security_Awareness  : ███████████████████░  98%
 
----
+[NETWORK_CONNECTIONS]
+GitHub              : [CONNECTED] - Sharing innovations
+LinkedIn            : [CONNECTED] - Professional networking
+Email               : [LISTENING] - contacto@systec.cl
+Website             : [SERVING]   - https://systec.cl
+```
 
-## 📊 **Estadísticas GitHub**
+```bash
+┌─[root@systec]─[~]
+└──╼ $ history | tail -10
+```
 
-<div align="center">
+```bash
+ 1847  docker-compose up -d --scale microservice=3
+ 1848  ansible-playbook deploy-infrastructure.yml --vault-password-file ~/.vault_pass
+ 1849  python3 train_model.py --epochs 100 --gpu --optimize
+ 1850  kubectl apply -f k8s-manifests/ --recursive
+ 1851  terraform apply -auto-approve -var-file="production.tfvars"
+ 1852  nmap -sS -O target_network/24
+ 1853  git commit -m "feat: implement AI-powered automation pipeline"
+ 1854  ./security_audit.sh --comprehensive --report-format json
+ 1855  systemctl restart innovation.service
+ 1856  echo "The future is automated, secure, and intelligent" | cowsay
+```
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=systec-technologies&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=systec-technologies&layout=compact&langs_count=8&theme=tokyonight"/>
+```bash
+┌─[root@systec]─[~]  
+└──╼ $ ./social_networks.sh --display-contacts
+```
 
-</div>
+```
+🌐 ESTABLISHING CONNECTIONS...
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
+📧  EMAIL      │ contacto@systec.cl              │ [ACTIVE]
+🌍  WEBSITE    │ https://systec.cl               │ [ONLINE]  
+💼  LINKEDIN   │ linkedin.com/in/systectech      │ [READY]
+🐙  GITHUB     │ github.com/systec-technologies  │ [PUSHING_CODE]
+📱  TELEGRAM   │ @systec_tech                    │ [AVAILABLE]
 
-## 🌟 **Lo que me distingue**
+CONNECTION_STATUS: ████████████████████ 100% ESTABLISHED
+```
 
-```python
-class SystecTechnologies:
-    def __init__(self):
-        self.skills = {
-            "desarrollo": ["Python", "FastAPI", "JavaScript", "Bash"],
-            "cloud": ["AWS", "GCP", "Docker", "Kubernetes"],
-            "devops": ["Ansible", "GitLab CI", "Infrastructure as Code"],
-            "ai": ["Machine Learning", "Computer Vision", "LLMs", "LangChain"],
-            "seguridad": ["Pentesting", "Hardening", "SIEM", "Compliance"]
-        }
-        
-    def filosofia(self):
-        return "Código limpio + Automatización + Innovación = Éxito"
-        
-    def mision(self):
-        return "Convertir desafíos complejos en soluciones elegantes"
+```bash
+┌─[root@systec]─[~]
+└──╼ $ fortune | lolcat
+```
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  "Code is like humor. When you have to explain it,       ║
+║   it's bad." - Cory House                                ║
+║                                                          ║
+║  "The best way to predict the future is to invent it."  ║
+║   - Alan Kay                                             ║
+║                                                          ║
+║  "Automation applied to an inefficient operation will   ║
+║   magnify the inefficiency." - Bill Gates               ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+```bash
+┌─[root@systec]─[~]
+└──╼ $ uptime
+```
+
+```
+ 12:34:56 up 365 days, 24 hrs, 7 users, load average: 0.42, 0.37, 0.25
+```
+
+```bash
+┌─[root@systec]─[~]
+└──╼ $ systemctl status motivation.service
+```
+
+```
+● motivation.service - Daily Innovation Drive
+     Loaded: loaded (/etc/systemd/system/motivation.service; enabled)
+     Active: active (running) since Mon 2024-01-01 00:00:01 UTC; 11 months ago
+   Main PID: 1337 (innovation)
+      Tasks: ∞ (limit: unlimited)
+     Memory: ∞
+        CPU: 100% (efficient usage)
+     CGroup: /system.slice/motivation.service
+             └─1337 /usr/bin/passion --continuous --innovation-mode
+
+🟢 "La tecnología no duerme, la innovación nunca para"
+🟢 Ready to tackle any challenge with code, creativity and coffee ☕
+🟢 Transforming complex problems into elegant solutions since 2020
+```
+
+```bash
+┌─[root@systec]─[~]
+└──╼ $ exit
+logout
+Connection to systec-technologies closed.
 ```
 
 ---
 
-## 📈 **Actividad Reciente**
-
-<!--START_SECTION:activity-->
-- 🚀 Deploying automated infrastructure solutions
-- 🤖 Building AI-powered applications  
-- 🔒 Implementing security best practices
-- 📚 Sharing knowledge through documentation
-<!--END_SECTION:activity-->
-
----
-
-## 🤝 **Conectemos**
-
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-systec.cl-00d4aa?style=for-the-badge)](https://systec.cl)
-[![Email](https://img.shields.io/badge/📧_Email-contacto@systec.cl-00d4aa?style=for-the-badge)](mailto:contacto@systec.cl)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Systec_Technologies-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/systectech)
-[![GitHub](https://img.shields.io/badge/⭐_GitHub-Sígueme-171515?style=for-the-badge&logo=github)](https://github.com/systec-technologies)
+```
+ _____ _                 _           __              
+|_   _| |__   __ _ _ __ | | _____   / _| ___  _ __   
+  | | | '_ \ / _` | '_ \| |/ / __| | |_ / _ \| '__|  
+  | | | | | | (_| | | | |   <\__ \ |  _| (_) | |     
+  |_| |_| |_|\__,_|_| |_|_|\_\___/ |_|  \___/|_|     
+                                                     
+     _                 _ _             _ 
+ ___| |_ ___  _ __  _ __ (_)_ __   __ _ | |
+/ __| __/ _ \| '_ \| '_ \| | '_ \ / _` || |
+\__ \ || (_) | |_) | |_) | | | | | (_| ||_|
+|___/\__\___/| .__/| .__/|_|_| |_|\__, |(_)
+             |_|   |_|            |___/    
+```
+
+**⚡ SYSTEM POWERED BY INNOVATION & COFFEE ⚡**
+
+![Terminal GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 </div>
 
----
-
-<div align="center">
-
-### 💡 **"La tecnología no duerme, la innovación nunca para"**
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-
-**🎯 Siempre dispuesto para nuevos desafíos tecnológicos**
-
-![Snake animation](https://github.com/systec-technologies/systec-technologies/blob/output/github-contribution-grid-snake.svg)
-
----
-
-⭐ **¿Te gustó mi trabajo? ¡Dale una estrella a mis repositorios!**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00d4aa&height=100&section=footer)
-
-</div>
+```bash
+# Thanks for visiting my terminal! 
+# Feel free to fork, star, or contribute to any repositories
+# Remember: sudo rm -rf problems && git add solutions
+```
