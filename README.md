@@ -57,14 +57,6 @@ bi0punk    7890  75.2  3.7  git push origin innovation
 
 ```bash
 ┌─[root@bi0punk]─[~]
-└──╼ $ tree /home/bi0punk//
-```
-
-```
-```
-
-```bash
-┌─[root@bi0punk]─[~]
 └──╼ $ cat /proc/bi0punk/status
 ```
 
@@ -97,20 +89,6 @@ Website             : [SERVING]   - https://bi0punk.cl
 ┌─[root@bi0punk]─[~]
 └──╼ $ history | tail -10
 ```
-
-```bash
- 1847  docker-compose up -d --scale microservice=3
- 1848  ansible-playbook deploy-infrastructure.yml --vault-password-file ~/.vault_pass
- 1849  python3 train_model.py --epochs 100 --gpu --optimize
- 1850  kubectl apply -f k8s-manifests/ --recursive
- 1851  terraform apply -auto-approve -var-file="production.tfvars"
- 1852  nmap -sS -O target_network/24
- 1853  git commit -m "feat: implement AI-powered automation pipeline"
- 1854  ./security_audit.sh --comprehensive --report-format json
- 1855  systemctl restart innovation.service
- 1856  echo "The future is automated, secure, and intelligent" | cowsay
-```
-
 ```bash
 ┌─[root@bi0punk]─[~]  
 └──╼ $ ./social_networks.sh --display-contacts
