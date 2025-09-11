@@ -124,14 +124,6 @@ CONNECTION_STATUS: ████████████████████ 
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-```bash
-┌─[root@bi0punk]─[~]
-└──╼ $ uptime
-```
-
-```
- 12:34:56 up 365 days, 24 hrs, 7 users, load average: 0.42, 0.37, 0.25
-```
 
 ```bash
 ┌─[root@bi0punk]─[~]
@@ -153,14 +145,6 @@ CONNECTION_STATUS: ████████████████████ 
 🟢 Ready to tackle any challenge with code, creativity and coffee ☕
 🟢 Transforming complex problems into elegant solutions since 2020
 ```
-
-```bash
-┌─[root@bi0punk]─[~]
-└──╼ $ exit
-logout
-Connection to bi0punk- closed.
-```
-
 ---
 
 <div align="center">
