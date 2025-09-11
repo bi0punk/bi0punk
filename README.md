@@ -81,30 +81,8 @@ Security_Awareness  : ███████████████████�
 [NETWORK_CONNECTIONS]
 GitHub              : [CONNECTED] - Sharing innovations
 LinkedIn            : [CONNECTED] - Professional networking
-Email               : [LISTENING] - contacto@bi0punk.cl
-Website             : [SERVING]   - https://bi0punk.cl
 ```
 
-```bash
-┌─[root@bi0punk]─[~]
-└──╼ $ history | tail -10
-```
-```bash
-┌─[root@bi0punk]─[~]  
-└──╼ $ ./social_networks.sh --display-contacts
-```
-
-```
-🌐 ESTABLISHING CONNECTIONS...
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-💼  LINKEDIN   │ linkedin.com/in/bi0punktech      │ [NOT AVAILABLE]
-🐙  GITHUB     │ github.com/bi0punk-  │ [PUSHING_CODE]
-📱  TELEGRAM   │ @bi0punk_tech                    │ [ NOT AVAILABLE]
-
-CONNECTION_STATUS: ████████████████████ 100% ESTABLISHED
-```
 
 ```bash
 ┌─[root@bi0punk]─[~]
