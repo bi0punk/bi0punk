@@ -1,12 +1,12 @@
 # 🧠 drbash @ GitHub
 
 ```bash
-┌──(drbash㉿github)-[~/projects]
+┌──(bi0punk㉿github)-[~/projects]
 └─$ screenfetch
 
 ..............                                  
-            ..,;:ccc,.                           drbash@github
-          ......''';lxO.                         OS: Arch Linux 
+            ..,;:ccc,.                           bi0punk@github
+          ......''';lxO.                         OS: Kali Linux 
 .....''''..........,:ld;                         Kernel: x86_64 Linux 6.10.2-arch1-1
            .';;;:::;,,.x,                        Uptime: 3h 14m
       ..'''.            0Xxoc:,.  ...            Packages: 4821 (pacman)
@@ -31,7 +31,7 @@
 
 ### 💻 Perfil Técnico
 
-> ⚙️ **OS:** Arch Linux  
+> ⚙️ **OS:** Kali Linux  
 > 🧠 **CPU:** AMD Ryzen 7 6800H  
 > 🎮 **GPU:** AMD Radeon 680M  
 > 🐧 **Shell:** Zsh 5.9  
