@@ -1,27 +1,27 @@
 # 🧠 drbash @ GitHub
 
 ```bash
-┌──(bi0punk㉿github)-[~/projects]
+┌──(drbash㉿github)-[~/workspace]
 └─$ screenfetch
 
 ..............                                  
-            ..,;:ccc,.                           bi0punk@github
-          ......''';lxO.                         OS: Kali Linux 
-.....''''..........,:ld;                         Kernel: x86_64 Linux 6.10.2-arch1-1
-           .';;;:::;,,.x,                        Uptime: 3h 14m
-      ..'''.            0Xxoc:,.  ...            Packages: 4821 (pacman)
-  ....                ,ONkc;,;cokOdc',.          Shell: zsh 5.9
- .                   OMo           ':ddo.        Resolution: 1920x1080
-                    dMc               :OO;       DE: GNOME 46
-                    0M.                 .:o.     WM: Mutter
-                    ;Wd                          WM Theme: Catppuccin-Mocha
-                     ;XO,                        GTK Theme: Orchis-Dark [GTK2/3]
-                       ,d0Odlc;,..               Icon Theme: Papirus-Dark
-                           ..',;:cdOOd::,.       Font: JetBrainsMono Nerd Font 12
-                                    .:d;.':;.    Disk: 124G / 256G (48%)
-                                       'd,  .'   CPU: AMD Ryzen 7 6800H @ 16x 4.7GHz
-                                         ;l   .. GPU: AMD Radeon 680M (RDNA2)
-                                          .o     RAM: 9.2GiB / 16GiB
+            ..,;:ccc,.                           drbash@github
+          ......''';lxO.                         Role: Cybersecurity & DevOps Engineer
+.....''''..........,:ld;                         Focus: Automation | Threat Detection | Infrastructure as Code
+           .';;;:::;,,.x,                        Repos: 74  (Public: 28 / Private: 46)
+      ..'''.            0Xxoc:,.  ...            Projects: 152 commits last month
+  ....                ,ONkc;,;cokOdc',.          Shell: zsh + tmux + neovim
+ .                   OMo           ':ddo.        Main Stack: Python · Ansible · Docker · FastAPI
+                    dMc               :OO;       DevOps: Kubernetes · GitLab CI · ArgoCD · Terraform
+                    0M.                 .:o.     Security: Pentesting · Threat Intel · SIEM Integration
+                    ;Wd                          ML/AI: Scikit-learn · YOLOv8 · LangChain
+                     ;XO,                        Cloud: AWS · GCP · On-Prem Hybrid
+                       ,d0Odlc;,..               Monitoring: Prometheus · Grafana · Alloy · Zabbix
+                           ..',;:cdOOd::,.       Contributions: Open Source Tools & Automation Scripts
+                                    .:d;.':;.    Docs: Markdown · GitBook · MkDocs · Obsidian
+                                       'd,  .'   Motto: “Automate Everything. Secure Everything.”
+                                         ;l   .. Status: Always building something new ⚙️
+                                          .o     
                                             c   
                                             .'  
                                              .  
@@ -31,14 +31,26 @@
 
 ### 💻 Perfil Técnico
 
-> ⚙️ **OS:** Kali Linux  
-> 🧠 **CPU:** AMD Ryzen 7 6800H  
-> 🎮 **GPU:** AMD Radeon 680M  
-> 🐧 **Shell:** Zsh 5.9  
-> 🎨 **Theme:** Catppuccin Mocha  
-> 🧩 **Editor:** Neovim / VSCode  
-> ☕ **Languages:** Python, Bash, Kotlin, JavaScript  
+> 🧠 **Especialidad:** Ciberseguridad · DevOps · Inteligencia Artificial  
+> ⚙️ **Lenguajes:** Python · Bash · JavaScript · Kotlin  
+> 🧩 **Frameworks:** FastAPI · Flask · Django · Streamlit  
+> ☁️ **Infraestructura:** Docker · Kubernetes · Ansible · Terraform  
+> 🛡️ **Seguridad:** Red Teaming · SIEM · IDS/IPS · Threat Hunting  
+> 📊 **Monitoreo:** Prometheus · Grafana · Zabbix · Datadog  
+> 🤖 **Machine Learning:** Scikit-Learn · YOLOv8 · XGBoost · TensorFlow  
+> 🧠 **IA Conversacional:** LangChain · Local LLMs · RAG Pipelines  
+> 🔐 **Compliance:** ISO 27001 · NIST · CIS Controls  
 
 ---
 
-✨ _“Hack the planet, but make it elegant.”_
+### 🧩 Proyectos Destacados
+
+- 🛰️ **Fail2AI:** Sistema de detección de intrusos con aprendizaje automático  
+- ⚡ **Ansible AutoPatch:** Parches automáticos de Windows/Linux con reportes HTML  
+- 🧠 **Alfred:** Asistente IA local con interfaz Django y LangChain  
+- 📡 **IoT Hub:** Control y monitoreo de sensores solares con ESP32  
+- 📈 **Zabbix-Agent Playbook:** Despliegue masivo automatizado en entornos híbridos  
+
+---
+
+✨ _“Hack the planet, automate the boring stuff, and make it beautiful.”_
