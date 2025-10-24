@@ -28,19 +28,6 @@
 ```
 
 ---
-
-### 💻 Perfil Técnico
-
-> 🧠 **Especialidad:** Ciberseguridad · DevOps · Inteligencia Artificial  
-> ⚙️ **Lenguajes:** Python · Bash · JavaScript · Kotlin  
-> 🧩 **Frameworks:** FastAPI · Flask · Django · Streamlit  
-> ☁️ **Infraestructura:** Docker · Kubernetes · Ansible · Terraform  
-> 🛡️ **Seguridad:** Red Teaming · SIEM · IDS/IPS · Threat Hunting  
-> 📊 **Monitoreo:** Prometheus · Grafana · Zabbix · Datadog  
-> 🤖 **Machine Learning:** Scikit-Learn · YOLOv8 · XGBoost · TensorFlow  
-> 🧠 **IA Conversacional:** LangChain · Local LLMs · RAG Pipelines  
-> 🔐 **Compliance:** ISO 27001 · NIST · CIS Controls  
-
 ---
 
 ### 🧩 Proyectos Destacados
