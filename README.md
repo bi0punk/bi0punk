@@ -30,13 +30,4 @@
 ---
 ---
 
-### 🧩 Proyectos Destacados
-
-- 🛰️ **Fail2AI:** Sistema de detección de intrusos con aprendizaje automático  
-- ⚡ **Ansible AutoPatch:** Parches automáticos de Windows/Linux con reportes HTML  
-- 🧠 **Alfred:** Asistente IA local con interfaz Django y LangChain  
-- 📡 **IoT Hub:** Control y monitoreo de sensores solares con ESP32  
-
----
-
 ✨ _“Hack the planet, automate the boring stuff, and make it beautiful.”_
