@@ -1,5 +1,3 @@
-# 🧠 bi0punk @ GitHub
-
 ```bash
 ┌──(bi0punk㉿github)-[~/workspace]
 └─$ screenfetch
