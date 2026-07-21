@@ -22,59 +22,6 @@
  `++:.                           `-/+/          ├─ GitLab CI/CD · GitHub Actions
  .`                                 `/          └─ PostgreSQL · SQLite · MinIO
 
-                                                Cybersecurity
-                                                ├─ Pentesting & Vulnerability Assessment
-                                                ├─ Threat Intelligence
-                                                ├─ SIEM & Security Event Integration
-                                                ├─ Infrastructure Hardening
-                                                └─ Incident Analysis & Automation
-
-                                                AI / Data
-                                                ├─ OpenCV · YOLO · Scikit-learn
-                                                ├─ Pandas · Data Engineering
-                                                ├─ LangChain · LangGraph · RAG
-                                                ├─ Local LLMs · llama.cpp
-                                                └─ OCR · Computer Vision · Agents
-
-                                                Infrastructure & Observability
-                                                ├─ Linux · RHEL · Fedora · Debian
-                                                ├─ Nginx · IIS · Tailscale
-                                                ├─ Prometheus · Grafana · Loki
-                                                ├─ Superset · Datadog · PagerDuty
-                                                └─ IoT · ESP32 · RS485 · RTSP
-
-                                                Development Environment
-                                                ├─ Shell       zsh
-                                                ├─ Terminal    tmux
-                                                ├─ Editor      Neovim
-                                                ├─ Platform    Linux
-                                                └─ Workflow    CLI-first
-
-                                                GitHub Activity
-                                                ├─ Repositories     74
-                                                ├─ Public           28
-                                                ├─ Private          46
-                                                ├─ Recent commits   152+
-                                                └─ Mode             Always shipping
-
-                                                Currently Building
-                                                ├─ AI-powered automation agents
-                                                ├─ DevOps deployment tooling
-                                                ├─ Security monitoring systems
-                                                ├─ Computer vision applications
-                                                └─ Data platforms for real-world problems
-
-                                                Principles
-                                                ├─ Automate repetitive work
-                                                ├─ Secure systems by design
-                                                ├─ Measure before optimizing
-                                                ├─ Build reproducible solutions
-                                                └─ Turn ideas into production systems
-
-                                                Motto
-                                                "Automate everything.
-                                                 Secure everything.
-                                                 Keep building."
 `````
 
 ---
