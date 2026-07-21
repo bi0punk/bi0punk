@@ -121,39 +121,6 @@ data_analysis = enabled
 </tr>
 </table>
 
----
-
-## `root@bi0punk:~# ls current-projects/`
-
-```text
-├── devops-automation/
-│   ├── deployment-generators
-│   ├── configuration-management
-│   └── infrastructure-validation
-│
-├── security-platforms/
-│   ├── threat-detection
-│   ├── event-correlation
-│   └── incident-automation
-│
-├── applied-ai/
-│   ├── local-llm-agents
-│   ├── rag-systems
-│   ├── computer-vision
-│   └── intelligent-monitoring
-│
-├── data-engineering/
-│   ├── collectors
-│   ├── processing-pipelines
-│   ├── analytics
-│   └── executive-dashboards
-│
-└── iot-systems/
-    ├── sensors
-    ├── environmental-monitoring
-    ├── automation
-    └── edge-computing
-```
 
 ---
 
