@@ -98,23 +98,6 @@ I build reproducible platforms that connect development, operations and security
 
 ---
 
-## `root@bi0punk:~# cat engineering-principles.md`
-
-```text
-[01] Automate repetitive operations.
-[02] Secure systems from the design phase.
-[03] Treat infrastructure as versioned code.
-[04] Add logs, metrics and traces before incidents happen.
-[05] Prefer reproducible systems over manual procedures.
-[06] Build modular architectures that can evolve.
-[07] Measure before optimizing.
-[08] Document decisions, not only commands.
-[09] Convert prototypes into production systems.
-[10] Keep learning and keep shipping.
-```
-
----
-
 ## `root@bi0punk:~# github-stats`
 
 <div align="center">
