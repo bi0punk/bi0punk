@@ -37,32 +37,6 @@ I build reproducible platforms that connect development, operations and security
 
 ---
 
-## `root@bi0punk:~# cat focus.conf`
-
-```ini
-[cybersecurity]
-threat_detection = enabled
-infrastructure_hardening = enabled
-incident_automation = enabled
-security_monitoring = enabled
-vulnerability_assessment = enabled
-
-[devops]
-infrastructure_as_code = enabled
-continuous_delivery = enabled
-configuration_management = enabled
-containerization = enabled
-observability = enabled
-
-[artificial_intelligence]
-local_llm = enabled
-rag_systems = enabled
-computer_vision = enabled
-automation_agents = enabled
-data_analysis = enabled
-```
-
----
 
 ## `root@bi0punk:~# ./stack --full`
 
