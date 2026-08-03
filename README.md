@@ -15,28 +15,6 @@
 
 ---
 
-## `root@bi0punk:~# whoami`
-
-```yaml
-identity:
-  alias: bi0punk
-  role:
-    - Cybersecurity Engineer
-    - DevOps Engineer
-    - Automation Developer
-
-location: Chile
-operating_system: Linux
-working_mode: CLI-first
-status: Building secure systems
-```
-
-Cybersecurity and DevOps engineer focused on practical automation, secure infrastructure, observability, applied artificial intelligence and production-grade systems.
-
-I build reproducible platforms that connect development, operations and security: from infrastructure as code and deployment pipelines to threat detection, local AI agents, computer vision and data engineering.
-
----
-
 
 ## `root@bi0punk:~# ./stack --full`
 
