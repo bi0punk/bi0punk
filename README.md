@@ -76,16 +76,6 @@
 
 ---
 
-## `root@bi0punk:~# github-stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bi0punk&show_icons=true&hide_border=true&bg_color=070B14&title_color=39FF14&icon_color=00E5FF&text_color=94A3B8" alt="GitHub statistics">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bi0punk&layout=compact&hide_border=true&bg_color=070B14&title_color=B026FF&text_color=94A3B8" alt="Most used languages">
-
-</div>
----
 
 ## `root@bi0punk:~# system-status`
 
