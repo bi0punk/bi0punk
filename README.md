@@ -85,9 +85,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bi0punk&layout=compact&hide_border=true&bg_color=070B14&title_color=B026FF&text_color=94A3B8" alt="Most used languages">
 
 </div>
-
-> Change `bi0punk` in the URLs if your GitHub username is different.
-
 ---
 
 ## `root@bi0punk:~# system-status`
