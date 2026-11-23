@@ -45,7 +45,7 @@ CI en verde y una guía que otra persona pueda seguir sin preguntarme nada.
 | [**catfinder**](https://github.com/bi0punk/catfinder) | Detección de gatos en cámaras RTSP con overlay, evidencias y alertas por Telegram | Python · YOLO · Flask · Docker |
 | [**ipcam-hunter**](https://github.com/bi0punk/ipcam-hunter) | Alerta cuando una persona permanece en una ROI; snapshot a WhatsApp y dashboard MJPEG | Python · YOLO · FastAPI · WAHA |
 | [**llama-webapp**](https://github.com/bi0punk/llama-webapp) | Gestor de modelos GGUF y centro de control para `llama-server` desde la web | FastAPI · SQLAlchemy · Redis/RQ |
-| [**repo-analyzer**](https://github.com/bi0punk/repo-analyzer) | Diagnóstico de repos y bundle de contexto listo para un LLM; también como GitHub Action | Python · LangChain · Docker |
+| [**repo-analyzer**](https://github.com/bi0punk/repo-analyzer) | Diagnóstico de repos y bundle de contexto listo para un LLM; también como GitHub Action | Python · Docker |
 | [**kpi-datapipeline**](https://github.com/bi0punk/kpi-datapipeline) | Pipeline Kafka → PostgreSQL con KPIs por minuto/hora/día y entrega *at-least-once* | Kafka · PostgreSQL · Docker |
 | [**readme-llm-gen**](https://github.com/bi0punk/readme-llm-gen) | Reconstruye READMEs analizando el código, con LLM local | Python · LangGraph · Ollama |
 
