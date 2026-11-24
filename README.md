@@ -14,26 +14,3 @@
 </div>
 
 ---
-
-## `root@bi0punk:~# whoami`
-
-```yaml
-user:       bi0punk
-role:       Ingeniero de sistemas · automatización, seguridad y datos
-base:       Chile · trabajo remoto
-focus:
-  - Computer vision sobre RTSP (YOLO / OpenCV)
-  - LLM locales y agentes (llama.cpp, LangGraph)
-  - Infraestructura reproducible (Docker, Ansible, CI/CD)
-  - Pipelines de datos y observabilidad (Kafka, PostgreSQL, Grafana)
-principio: "Automatiza lo repetible, observa lo importante, asegura lo demás."
-```
-
-Construyo sistemas que **ven, escuchan y deciden** en la periferia: cámaras que
-detectan en tiempo real, modelos que corren sin depender de la nube y
-automatizaciones que dejan de necesitar a una persona mirando una pantalla.
-
-Me importa que lo que entrego sea **reproducible**: un `docker compose up`, un
-CI en verde y una guía que otra persona pueda seguir sin preguntarme nada.
-
----
